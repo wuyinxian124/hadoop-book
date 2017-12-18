@@ -1,3 +1,4 @@
-# My Awesome Book
+# hadoop 学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这个手册只是记录hadoop学习过程。  
+有一些hadoop介绍和操作命令。  
