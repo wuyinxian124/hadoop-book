@@ -10,11 +10,11 @@ reducer 将原来同一个key的value集合比较小，聚合为一个更大的�
 reducer的核心包括：shuffle，sort,reduce。  
 
 
-### Shuffle
-#### sss
+#### shuffle
+
 Input to the Reducer is the sorted output of the mappers. In this phase the framework fetches the relevant partition of the output of all the mappers, via HTTP.
 
-Sort
+#### Sort
 
 The framework groups Reducer inputs by keys (since different mappers may have output the same key) in this stage.
 
