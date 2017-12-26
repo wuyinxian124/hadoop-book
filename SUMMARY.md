@@ -8,3 +8,5 @@
   * [mr接口介绍](/mapreduce/mrreadme.md)
     * [Mapper](/mapreduce/mapper.md)
     * [Reducer](/mapreduce/reducer.md)
+    * [Partitioner](/mapreduce/partitioner.md)
+    * [counter](/mapreduce/counter.md)
