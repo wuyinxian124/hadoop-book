@@ -10,3 +10,4 @@
     * [Reducer](/mapreduce/reducer.md)
     * [Partitioner](/mapreduce/partitioner.md)
     * [counter](/mapreduce/counter.md)
+  * [job configuration](/mapreduce/configuration.md)
