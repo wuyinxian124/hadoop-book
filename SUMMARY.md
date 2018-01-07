@@ -11,3 +11,4 @@
     * [Partitioner](/mapreduce/partitioner.md)
     * [counter](/mapreduce/counter.md)
   * [job configuration](/mapreduce/configuration.md)
+  * [任务的执行和环境变量](/mapreduce/taskandenv.md)
